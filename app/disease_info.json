@@ -1,0 +1,62 @@
+{
+  "Tomato_Bacterial_spot": {
+    "symptoms": "Small, dark, water-soaked spots on leaves and fruit.",
+    "remedy": "Use copper-based fungicides and avoid overhead watering.",
+    "purchase_link": "https://www.amazon.com/s?k=copper+fungicide",
+    "info_link": "https://extension.umn.edu/disease-management/bacterial-spot-tomatoes-and-peppers"
+  },
+  "Tomato_Early_blight": {
+    "symptoms": "Brown spots with concentric rings on lower leaves.",
+    "remedy": "Apply fungicides like chlorothalonil and practice crop rotation.",
+    "purchase_link": "https://www.amazon.com/s?k=chlorothalonil+fungicide",
+    "info_link": "https://extension.umn.edu/disease-management/early-blight-tomatoes"
+  },
+  "Tomato_Late_blight": {
+    "symptoms": "Large, dark, water-soaked lesions on leaves and fruit.",
+    "remedy": "Destroy infected plants and apply copper fungicide immediately.",
+    "purchase_link": "https://www.amazon.com/s?k=copper+fungicide",
+    "info_link": "https://www.apsnet.org/edcenter/disandpath/oomycete/pdlessons/Pages/LateBlight.aspx"
+  },
+  "Tomato_Leaf_Mold": {
+    "symptoms": "Yellowing leaves with gray mold on undersides.",
+    "remedy": "Ensure good air circulation and use fungicides like mancozeb.",
+    "purchase_link": "https://www.amazon.com/s?k=mancozeb+fungicide",
+    "info_link": "https://www.extension.purdue.edu/extmedia/bp/bp-73-w.pdf"
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "symptoms": "Small, circular spots with dark edges on lower leaves.",
+    "remedy": "Remove infected leaves and apply neem oil or fungicides.",
+    "purchase_link": "https://www.amazon.com/s?k=neem+oil+fungicide",
+    "info_link": "https://extension.umn.edu/disease-management/septoria-leaf-spot-tomatoes"
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "symptoms": "Yellow stippling on leaves and webbing underneath.",
+    "remedy": "Spray with insecticidal soap or neem oil.",
+    "purchase_link": "https://www.amazon.com/s?k=insecticidal+soap+neem+oil",
+    "info_link": "https://entnemdept.ufl.edu/creatures/orn/two_spotted_spider_mite.htm"
+  },
+  "Tomato__Target_Spot": {
+    "symptoms": "Brown spots with yellow halos on leaves and stems.",
+    "remedy": "Apply copper fungicide and remove affected leaves.",
+    "purchase_link": "https://www.amazon.com/s?k=copper+fungicide",
+    "info_link": "https://www.apsnet.org/edcenter/disandpath/fungal/pdlessons/Pages/TargetSpotTomato.aspx"
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "symptoms": "Leaves curl upwards, turn yellow, and plant growth is stunted.",
+    "remedy": "Use resistant varieties and control whiteflies with neem oil.",
+    "purchase_link": "https://www.amazon.com/s?k=whitefly+control+neem+oil",
+    "info_link": "https://www.apsnet.org/edcenter/disandpath/viral/pdlessons/Pages/TomatoYellowLeafCurl.aspx"
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "symptoms": "Mottled yellow-green leaves with distorted growth.",
+    "remedy": "Remove infected plants and disinfect gardening tools.",
+    "purchase_link": "https://www.amazon.com/s?k=garden+disinfectant+spray",
+    "info_link": "https://www.apsnet.org/edcenter/disandpath/viral/pdlessons/Pages/TomatoMosaicVirus.aspx"
+  },
+  "Tomato_healthy": {
+    "symptoms": "No disease detected. Your plant is healthy!",
+    "remedy": "Maintain proper watering and fertilization.",
+    "purchase_link": "https://www.amazon.com/s?k=organic+fertilizer",
+    "info_link": "https://www.gardeningknowhow.com/edible/vegetables/tomato/growing-healthy-tomatoes.htm"
+  }
+}
